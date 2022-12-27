@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+📖️ A repository that archives and collects citation files from all of my repositories, in APA Style, BibTeX, and CFF formats.
