@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). A homepage repository for the scope of the projects of seanpm2001. This is a data repository containing a full scope of projects and their hierarchy, all in JSON format. [Data set]. https://doi.org/10.0000/00000
