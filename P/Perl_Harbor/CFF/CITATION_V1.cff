@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this project (memorial, documentation, biography, and miscellaneous Perl programs) please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Perl Harbor project"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2020-12-06
+# Date the repository was created
+url: "https://github.com/seanpm2001/Perl_Harbor/"
+cff-version: 1.2.0
+message: "If you use this project (memorial, documentation, biography, and miscellaneous Perl programs) please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: ""
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+# Date of the creation of the citation file
+date-released: 2022-12-10
+url: "https://github.com/seanpm2001/Perl_Harbor/"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Pearl Harbor memorial, documentation, biography, and misc Perl programs"
+  month: 12
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "A repository dedicated to Pearl Harbor, and its attack on Sunday, December 7th 1941. Never forget. Perl programmers are encouraged to help contribute and commemorate in any way they can. "
+  issue: 1
+  volume: 1
+  year: 2020
+# File info
+# File version: 1 (2022, Saturday, December 10th at 7:41 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 46
+
