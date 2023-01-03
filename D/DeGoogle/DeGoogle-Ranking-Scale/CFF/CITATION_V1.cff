@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this project (DeGoogle ranking scale article) please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Seanpm2001 DeGoogle ranking scale"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2023-01-03
+# Date the repository was created
+url: "https://github.com/seanpm2001/DeGoogle-Ranking-Scale/"
+cff-version: 1.2.0
+message: "If you use this project (DeGoogle ranking scale article) please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Seanpm2001 DeGoogle ranking scale"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+# Date of the creation of the citation file
+date-released: 2023-01-03
+url: "https://github.com/seanpm2001/DeGoogle-Ranking-Scale/"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Seanpm2001 DeGoogle ranking scale"
+  month: 1
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "A homepage repository for Sean P. Myricks DeGoogle ranking scale legend. It is recommended to cite this repository when using this scale to determine your DeGoogle level, or the DeGoogle level of your article, blog, software, or other work."
+  issue: 1
+  volume: 1
+  year: 2023
+# File info
+# File version: 1 (2023, Tuesday, January 3rd at 2:36 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 46
+
