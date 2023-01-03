@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2023). A homepage repository for Sean P. Myricks DeGoogle ranking scale legend. It is recommended to cite this repository when using this scale to determine your DeGoogle level, or the DeGoogle level of your article, blog, software, or other work. [Data set]. https://doi.org/10.0000/00000
